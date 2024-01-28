@@ -1,4 +1,4 @@
-#Bangalore House Price Prediction
+# Bangalore House Price Prediction
 
 Welcome to the Bangalore House Price Prediction project repository! This project involves the analysis and prediction of house prices in Bangalore using a machine learning model. The entire workflow includes data collection, cleaning, feature engineering, model training, deployment using Django, and a user-friendly frontend.
 
